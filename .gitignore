@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 data/raw/
+.vscode/
+notebooks/phase1_refresher.ipynb
+notebooks/practice.xlsx
