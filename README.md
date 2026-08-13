@@ -2,13 +2,13 @@
 
 Parsing and analysing 21 months of personal weight and nutrition data, extracted from an Excel workbook where each sheet is one week.
 
-**Status, 10 August 2026.** Early. The environment and repo are set up and the workbook opens from Python. The notebook in `notebooks/` confirms the sheet layout on one sheet. The parser is in development, targeted at 24 August.
+**Status, 10 August 2026.** The environment and repo are set up and the workbook opens from Python. The notebook in `notebooks/` confirms the sheet layout on one sheet. The parser is in development, targeted at 24 August.
 
 ## Version status
 
-* **M0** — environment, repo, README with the scope, workbook readable from Python. Complete, 10 August 2026.
-* **M1** — Era 3 parser, validated against each sheet's own totals, charts, finalised README. ~24 August 2026.
-* **M2** — food reference table, weight series reconciled against a second calorie source, data-confidence metric, synthetic sample, additional charts. ~14 September 2026.
+* **M0**: environment, repo, README with the scope, workbook readable from Python. Complete, 10 August 2026.
+* **M1**: Era 3 parser, validated against each sheet's own totals, charts, finalised README. ~24 August 2026.
+* **M2**: food reference table, weight series reconciled against a second calorie source, data-confidence metric, synthetic sample, additional charts. ~14 September 2026.
 
 ## Why?
 
